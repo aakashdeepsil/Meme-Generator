@@ -1,2 +1,3 @@
-# ToDo-Frontend-Application-
-to-do Website Application. This is a frontend only application built on React.js, vanilla Javascript, HTML and CSS
+# Meme-Generator
+This application generates random memes. 
+This is built on React.js, Vanilla Javascript, HTML and CSS.
